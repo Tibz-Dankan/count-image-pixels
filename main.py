@@ -1,4 +1,3 @@
-#  using PIL (pillow) library
 from PIL import Image
 
 # Open the image
