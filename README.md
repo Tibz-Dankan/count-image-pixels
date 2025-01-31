@@ -11,7 +11,7 @@ Ensure you have Python installed (version 3.x recommended). You can download Pyt
 1. Clone this repository or download `main.py`.
 2. Install the required dependencies using pip:
    ```sh
-   pip install pillow
+   pip install pillow webcolors
    ```
 
 ## Usage
