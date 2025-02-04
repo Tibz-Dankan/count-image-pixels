@@ -34,3 +34,6 @@ for color, count in sorted_color_summary:
     rectangle = color_rectangle(color)
     print(f"{rectangle} Color {color_name} : {count} pixels")
 
+
+# pip install pillow webcolors
+# python main.py
